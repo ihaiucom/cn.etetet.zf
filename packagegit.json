@@ -1,0 +1,11 @@
+﻿{
+    "Id": 0,
+    "Name": "ZF",
+    "ScriptsReferences": 
+    {
+        "Hotfix": ["ET.ZF"],
+        "HotfixView": ["ET.ZF"],
+        "Model": ["ET.ZF"],
+        "ModelView": ["ET.ZF"]
+    }
+}
